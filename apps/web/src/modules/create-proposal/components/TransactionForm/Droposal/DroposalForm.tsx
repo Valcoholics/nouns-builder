@@ -101,7 +101,7 @@ export const DroposalForm: React.FC<AirdropFormProps> = ({ onSubmit, disabled })
                 <a
                   target="_blank"
                   rel="noreferrer noopener"
-                  href="https://docs.zora.co/docs/smart-contracts/creator-tools/ZoraNFTCreator"
+                  href="https://docs.nouns.build/docs/smart-contracts/creator-tools/ZoraNFTCreator"
                 >
                   Lean more
                 </a>

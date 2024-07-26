@@ -49,7 +49,7 @@ export const Footer = () => {
         </Stack>
         <Stack gap={'x4'} className={footerRightWrapper}>
           <a
-            href={'https://docs.zora.co/docs/smart-contracts/nouns-builder/intro'}
+            href={'https://docs.nouns.build/'}
             target="_blank"
             rel="noreferrer"
           >
